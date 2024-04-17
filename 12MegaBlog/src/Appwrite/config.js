@@ -1,4 +1,4 @@
-import conf from '..Conf/conf.js';
+import conf from '../Conf/Conf';
 import {Client , Databases, Storage, Query} from "appwrite";
 import { tree } from 'next/dist/build/templates/app-page';
 
